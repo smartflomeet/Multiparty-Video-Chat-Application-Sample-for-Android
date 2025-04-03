@@ -1,4 +1,4 @@
-package com.enablex.multiconferencequickapp.model;
+package com.smartflomeet.multiconferencequickapp.model;
 
 import enx_rtc_android.Controller.EnxPlayerView;
 import enx_rtc_android.Controller.EnxStream;

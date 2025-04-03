@@ -1,4 +1,4 @@
-package com.enablex.multiconferencequickapp.utilities;
+package com.smartflomeet.multiconferencequickapp.utilities;
 
 import android.view.MotionEvent;
 import android.view.View;

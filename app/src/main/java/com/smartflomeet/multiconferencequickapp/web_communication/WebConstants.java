@@ -1,4 +1,4 @@
-package com.enablex.multiconferencequickapp.web_communication;
+package com.smartflomeet.multiconferencequickapp.web_communication;
 
 public class WebConstants {
 
@@ -14,7 +14,7 @@ public class WebConstants {
 
     /*Use smartflomeet portal to create your app and get these following credentials*/
     public static final String kAppId = "App--ID";
-    public static final String kAppkey = "App--Key";ht
+    public static final String kAppkey = "App--Key";
 
 
          public static final String getRoomId = "createRoom/";

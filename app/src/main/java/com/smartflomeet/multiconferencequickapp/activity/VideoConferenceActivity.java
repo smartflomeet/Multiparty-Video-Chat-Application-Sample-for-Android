@@ -1,4 +1,4 @@
-package com.enablex.multiconferencequickapp.activity;
+package com.smartflomeet.multiconferencequickapp.activity;
 
 import android.app.Dialog;
 import android.app.ProgressDialog;
@@ -27,11 +27,11 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.enablex.multiconferencequickapp.adapter.HorizontalViewAdapter;
-import com.enablex.multiconferencequickapp.model.HorizontalViewModel;
-import com.enablex.multiconferencequickapp.model.UserModel;
-import com.enablex.multiconferencequickapp.utilities.OnDragTouchListener;
-import com.enablex.multipartyquickapp.R;
+import com.smartflomeet.multiconferencequickapp.adapter.HorizontalViewAdapter;
+import com.smartflomeet.multiconferencequickapp.model.HorizontalViewModel;
+import com.smartflomeet.multiconferencequickapp.model.UserModel;
+import com.smartflomeet.multiconferencequickapp.utilities.OnDragTouchListener;
+import com.smartflomeet.multipartyquickapp.R;
 import com.google.gson.Gson;
 
 import org.json.JSONArray;

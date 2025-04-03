@@ -1,4 +1,4 @@
-package com.enablex.multiconferencequickapp.adapter;
+package com.smartflomeet.multiconferencequickapp.adapter;
 
 
 import android.content.Context;
@@ -10,8 +10,8 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.enablex.multiconferencequickapp.model.HorizontalViewModel;
-import com.enablex.multipartyquickapp.R;
+import com.smartflomeet.multiconferencequickapp.model.HorizontalViewModel;
+import com.smartflomeet.multipartyquickapp.R;
 
 import java.util.List;
 

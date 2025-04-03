@@ -1,4 +1,4 @@
-package com.enablex.multiconferencequickapp.web_communication;
+package com.smartflomeet.multiconferencequickapp.web_communication;
 
 import android.app.ProgressDialog;
 import android.content.Context;

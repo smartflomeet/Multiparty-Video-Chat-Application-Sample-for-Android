@@ -1,4 +1,4 @@
-package com.enablex.multiconferencequickapp.model;
+package com.smartflomeet.multiconferencequickapp.model;
 
 import java.io.Serializable;
 

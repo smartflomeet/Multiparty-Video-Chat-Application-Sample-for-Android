@@ -1,4 +1,4 @@
-package com.enablex.multiconferencequickapp.activity;
+package com.smartflomeet.multiconferencequickapp.activity;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -17,11 +17,11 @@ import android.widget.EditText;
 import android.widget.RadioGroup;
 import android.widget.Toast;
 
-import com.enablex.multiconferencequickapp.ApplicationController;
-import com.enablex.multiconferencequickapp.web_communication.WebCall;
-import com.enablex.multiconferencequickapp.web_communication.WebConstants;
-import com.enablex.multiconferencequickapp.web_communication.WebResponse;
-import com.enablex.multipartyquickapp.R;
+import com.smartflomeet.multiconferencequickapp.ApplicationController;
+import com.smartflomeet.multiconferencequickapp.web_communication.WebCall;
+import com.smartflomeet.multiconferencequickapp.web_communication.WebConstants;
+import com.smartflomeet.multiconferencequickapp.web_communication.WebResponse;
+import com.smartflomeet.multipartyquickapp.R;
 
 import org.json.JSONException;
 import org.json.JSONObject;

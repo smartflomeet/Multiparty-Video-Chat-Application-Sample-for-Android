@@ -1,4 +1,4 @@
-package com.enablex.multiconferencequickapp;
+package com.smartflomeet.multiconferencequickapp;
 
 import android.app.Activity;
 import android.app.Application;
